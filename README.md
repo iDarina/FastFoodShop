@@ -2,7 +2,7 @@
 
 ### **Step 1: Cloning the Repository to Your IntelliJ**
 1. **Obtain the Repository URL:**
-   - Make sure you have the team repository url. Here is the team repo https link: `https://github.com/TreasureAD/FarmerFroilan.git`.
+   - Make sure you have the team repository url. Here is the team repo https link: `(https://github.com/iDarina/FastFoodShop.git)`.
 
 2. **Open IntelliJ:**
    - Open IntelliJ and navigate to **Main Menu (three lines) > New > Project from Version Control**.
