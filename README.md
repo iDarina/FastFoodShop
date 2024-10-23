@@ -2,7 +2,7 @@
 
 ```bash
 
-### Fork: Navigate to your repository on GitHub and click the Fork button to create a copy under your account (optional if you're contributing to another repository).
+### Fork: Navigate to your repository on GitHub and click the Fork button to create a copy under your account (optional if you're contributing to another repository). 
 
 ### Fork:
  Fork the Repository
