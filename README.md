@@ -2,9 +2,9 @@
 
 ### Fork: Navigate to your repository on GitHub and click the Fork button to create a copy under your account (optional if you're contributing to another repository).
 
-### Clone:
-git clone https://github.com/iDarina/FastFoodShop.git
-cd FastFoodShop
+### Fork:
+ Fork the Repository
+Navigate to the repository and click the Fork button in the top-right corner to create your own copy of the repository.
 
 ### Create a Branch:
 git checkout -b my-branch
